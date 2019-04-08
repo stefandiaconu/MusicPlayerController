@@ -1,0 +1,3 @@
+MusicPlayerController.Droid.MainActivity, MusicPlayerController.Droid;md5a1021789e7c6de8ef55bd49bd5d0f1f7.MainActivity
+MusicPlayerController.Droid.MainActivity;md5a1021789e7c6de8ef55bd49bd5d0f1f7.MainActivity
+musicplayercontroller.droid.MainActivity;md5a1021789e7c6de8ef55bd49bd5d0f1f7.MainActivity

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7618F710-5BE4-44B5-90FD-D8DF1422A217}|Default">
+  <MonoDevelop.Ide.ItemProperties.MusicPlayerController.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="48" Column="17" />
+      <File FileName="iOS/Main.storyboard" />
+      <File FileName="Droid/MainActivity.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicPlayerController" expanded="True">
+            <Node name="MusicPlayerController" expanded="True" />
+            <Node name="MusicPlayerController.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="MusicPlayerController.iOS" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MusicPlayerController.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3AEA4289-4776-48CF-AA70-ABA196B47CB2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MusicPlayerController.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
