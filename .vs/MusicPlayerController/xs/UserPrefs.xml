@@ -1,23 +1,21 @@
-﻿<Properties StartupConfiguration="{7618F710-5BE4-44B5-90FD-D8DF1422A217}|Default">
+﻿<Properties StartupConfiguration="{CC112874-5E55-4EDA-A680-19C535F7B839}|Default">
   <MonoDevelop.Ide.ItemProperties.MusicPlayerController.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
     <Files>
-      <File FileName="iOS/ViewController.cs" Line="48" Column="17" />
+      <File FileName="iOS/ViewController.cs" Line="68" Column="57" />
       <File FileName="iOS/Main.storyboard" />
-      <File FileName="Droid/MainActivity.cs" Line="59" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="48" Column="65" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MusicPlayerController" expanded="True">
-            <Node name="MusicPlayerController" expanded="True" />
             <Node name="MusicPlayerController.Droid" expanded="True">
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
               </Node>
-              <Node name="MainActivity.cs" selected="True" />
             </Node>
-            <Node name="MusicPlayerController.iOS" expanded="True">
+            <Node name="MusicPlayerController.iOS" expanded="True" selected="True">
               <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>

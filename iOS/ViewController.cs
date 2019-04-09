@@ -66,13 +66,14 @@ namespace MusicPlayerController.iOS
             var mqttClient = factory.CreateMqttClient();
 
             var options = new MqttClientOptionsBuilder()
-            .WithTcpServer("broker.hivemq.com", 1883) // Port is optional
+            .WithTcpServer("mqtt.dioty.co", 1883) // Port is optional
+            .WithCredentials("milanfdl1899@gmail.com", "f8e50cb7")
             .Build();
 
             await mqttClient.ConnectAsync(options);
 
             var message = new MqttApplicationMessageBuilder()
-        .WithTopic("testtopic/milan")
+        .WithTopic("/milanfdl1899@gmail.com/milan")
         .WithPayload(text)
         .WithExactlyOnceQoS()
         .WithRetainFlag()

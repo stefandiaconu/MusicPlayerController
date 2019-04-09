@@ -3,3 +3,4 @@
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/obj/Debug/MusicPlayerController.csproj.CoreCompileInputs.cache
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/obj/Debug/MusicPlayerController.dll
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/obj/Debug/MusicPlayerController.pdb
+/Users/stefandiaconu/Documents/C#/MusicPlayerController/obj/Debug/MusicPlayerController.csprojAssemblyReference.cache
