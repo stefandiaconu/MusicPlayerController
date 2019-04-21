@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.MusicPlayerController.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
     <Files>
-      <File FileName="iOS/ViewController.cs" Line="68" Column="57" />
+      <File FileName="iOS/ViewController.cs" Line="63" Column="10" />
       <File FileName="iOS/Main.storyboard" />
       <File FileName="Droid/MainActivity.cs" Line="48" Column="65" />
     </Files>
@@ -11,11 +11,12 @@
         <State name="__root__">
           <Node name="MusicPlayerController" expanded="True">
             <Node name="MusicPlayerController.Droid" expanded="True">
+              <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
               </Node>
             </Node>
-            <Node name="MusicPlayerController.iOS" expanded="True" selected="True">
+            <Node name="MusicPlayerController.iOS" expanded="True">
               <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>
