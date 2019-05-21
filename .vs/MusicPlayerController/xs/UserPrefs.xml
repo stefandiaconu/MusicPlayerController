@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.MusicPlayerController.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
     <Files>
-      <File FileName="iOS/ViewController.cs" Line="6" Column="13" />
+      <File FileName="iOS/ViewController.cs" Line="9" Column="2" />
       <File FileName="iOS/Main.storyboard" />
-      <File FileName="Droid/MainActivity.cs" Line="48" Column="65" />
+      <File FileName="Droid/MainActivity.cs" Line="50" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +24,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MusicPlayerController.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+  <MonoDevelop.Ide.ItemProperties.MusicPlayerController.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8A1F2C08-187C-43D3-B62B-671C8C95630E">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.MusicPlayerController.iOS>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

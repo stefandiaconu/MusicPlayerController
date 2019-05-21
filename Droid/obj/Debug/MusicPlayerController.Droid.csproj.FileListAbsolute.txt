@@ -57,7 +57,6 @@
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/linksrc/MusicPlayerController.pdb
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/link.flag
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/Java.Interop.dll
-/Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/machine.config
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/Mono.Android.dll
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/Mono.Security.dll
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/MQTTnet.dll
@@ -87,5 +86,7 @@
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/stamp/_CopyIntermediateAssemblies.stamp
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/stamp/_CopyPdbFiles.stamp
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/Mono.Android.pdb
+/Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/android/assets/machine.config
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/stamp/_CompileToDalvik.stamp
 /Users/stefandiaconu/Documents/C#/MusicPlayerController/Droid/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
